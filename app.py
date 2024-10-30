@@ -39,19 +39,19 @@ com = st.selectbox("COMMODITY",
                     "Soya Oil", "Palm Oil", "Rice", "Potato", "Onion", "Tomato"])
 
 # Load pickle files for each commodity
-with open("combined_series_dal.pkl", "rb") as f:
+with open("combined_series_Dal.pkl", "rb") as f:
     dal = pickle.load(f)
-with open("combined_series_gur.pkl", "rb") as f:
+with open("combined_series_Gur.pkl", "rb") as f:
     gur = pickle.load(f)
-with open("combined_series_milk.pkl", "rb") as f:
+with open("combined_series_Milk.pkl", "rb") as f:
     milk = pickle.load(f)
-with open("combined_series_salt.pkl", "rb") as f:
+with open("combined_series_Salt.pkl", "rb") as f:
     salt = pickle.load(f)
-with open("combined_series_sugar.pkl", "rb") as f:
+with open("combined_series_Sugar.pkl", "rb") as f:
     sugar = pickle.load(f)
-with open("combined_series_tea.pkl", "rb") as f:
+with open("combined_series_Tea.pkl", "rb") as f:
     tea = pickle.load(f)
-with open("combined_series_wheat.pkl", "rb") as f:
+with open("combined_series_Wheat.pkl", "rb") as f:
     wheat = pickle.load(f)
 
 st.subheader('Get Prediction or Historical Value for a Specific Month and Year')
