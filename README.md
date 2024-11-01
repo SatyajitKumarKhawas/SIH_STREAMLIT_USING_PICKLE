@@ -53,9 +53,12 @@ The app includes CSS styling to display a natural background. You can change the
 
 ## Example
 
-For instance, selecting "Gram Dal" for "North" zone in "Winter" 2024 will display the predicted price of Gram Dal for the selected time.
+###For instance, selecting "Milk" for "West" zone in "Winter" 2034 will display the predicted price of Gram Dal for the selected month.
 
 ![image](https://github.com/user-attachments/assets/bd2db0c3-68e4-46ef-b374-b8a69ea438ea)
+
+
+###For instance, selecting "Gram Dal" for "North" zone in "Winter" 2024  will display the predicted price of Gram Dal for the selected month.
 
 ![Screenshot 2024-11-01 210610](https://github.com/user-attachments/assets/5c2bfbc2-022e-4238-a23f-b97360fe08dd)
 
