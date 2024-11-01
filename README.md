@@ -1,5 +1,3 @@
-Here's an updated `README.md` that includes the time series and machine learning models:
-
 ---
 
 # AGRI-FORECAST
