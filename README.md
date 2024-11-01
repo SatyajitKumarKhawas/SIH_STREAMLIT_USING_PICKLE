@@ -69,7 +69,7 @@ The app includes CSS styling to display a natural background. You can change the
 
 ## Future Enhancements
 
-- **Advanced Models**: Future versions may include model improvements with additional parameters.
+- **Advanced Models** : Future versions may include model improvements with additional parameters.
 - **Real-Time Data**: Incorporation of live data updates.
 - **Expanded Commodity List**: Add more commodities to address broader user needs.
 
