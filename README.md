@@ -11,6 +11,9 @@ AGRI-FORECAST is a Streamlit-based web application that predicts future average 
 - **ML Models for Prediction**: The app utilizes time series models, ARIMA and SARIMA, for accurate forecasting.
 - **Results Display**: Displays predicted or historical sales prices based on input parameters.
 
+- Deployed Application
+Access the deployed version of AGRI-FORECAST here: https://crop-price-prediction-model.streamlit.app/
+
 ## Setup Instructions
 
 1. **Clone this repository**:
